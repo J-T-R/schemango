@@ -1,4 +1,4 @@
-module main
+module schemango
 
 go 1.15
 
